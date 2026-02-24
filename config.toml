@@ -1,0 +1,15 @@
+[theme]
+# Força o Modo Claro
+base="light"
+
+# Coração e Botões vão pegar o verde da Via Appia
+primaryColor="#1A5D5C"
+
+# Fundo do site explicitamente Branco
+backgroundColor="#FFFFFF"
+
+# Textos, labels e caixas explicitamente Pretos/Grafites
+textColor="#111111"
+
+# Fontes primárias
+font="sans serif"
